@@ -11,4 +11,9 @@ myTupleOfTuple = [
     [2, "Juan"]
 ];
 let nuevaVariable;
-console.log(typeof (nuevaVariable));
+nuevaVariable = "Nicolas";
+const isMatch = 1;
+const nombre = "Nicolas";
+//
+let myName;
+myName = 7;
